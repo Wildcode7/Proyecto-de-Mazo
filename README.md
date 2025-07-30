@@ -1,1 +1,1 @@
-# Proyecto-del-Mazo
+# Proyecto-de-Mazo
